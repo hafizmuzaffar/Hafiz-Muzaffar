@@ -879,6 +879,12 @@ button {
     margin-bottom: 20px;
 }
 
+.desc {
+    font-size: 15px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
 .pp-body .general-info li {
     margin-bottom: 10px;
     font-weight: 500;
